@@ -1,0 +1,21 @@
+vdom1
+→other　制限緩和強化　Sublocation_Github_Allow　Locations_github_Block
+vdom2
+→other　制限緩和強化　Sublocation_Github_Allow　Locations_github_Block
+vdom3
+→other　ukai　Sublocation_Github_ukai_Allow　Sublocation_Github_Allow
+
+Azure東
+→other　Sublocation_Github_Allow　Locations_github_Block
+
+Azure西
+→other　Sublocation_Github_Allow　Locations_github_Block
+
+NPF東
+→other
+
+NPF西
+→other
+
+適用対象外のロケーション→DR
+→other
